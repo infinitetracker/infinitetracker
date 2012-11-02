@@ -10,4 +10,6 @@ public interface Dao<T> {
 	T delete(T t);
 
 	T create();
+	
+	T update(T t);
 }
