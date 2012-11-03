@@ -20,5 +20,9 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jboss-logging"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jboss-transaction-api"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql-jdbc"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-beans"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-context"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-context-support"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-core"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
