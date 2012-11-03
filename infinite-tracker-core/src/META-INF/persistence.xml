@@ -3,5 +3,7 @@
 	<persistence-unit name="infinite-tracker-core">
 		<class>org.infinitetracker.core.issue.domain.IssueStatus</class>
 		<class>org.infinitetracker.core.issue.domain.Status</class>
+		<class>org.infinitetracker.core.issue.domain.IssuePriority</class>
+		<class>org.infinitetracker.core.issue.domain.IssueType</class>
 	</persistence-unit>
 </persistence>
