@@ -19,5 +19,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javaassist"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jboss-logging"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jboss-transaction-api"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql-jdbc"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
