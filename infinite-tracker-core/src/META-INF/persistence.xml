@@ -6,5 +6,6 @@
 		<class>org.infinitetracker.core.issue.domain.IssuePriority</class>
 		<class>org.infinitetracker.core.issue.domain.IssueType</class>
 		<class>org.infinitetracker.core.tracker.domain.Tracker</class>
+		<class>org.infinitetracker.core.project.domain.Project</class>
 	</persistence-unit>
 </persistence>
