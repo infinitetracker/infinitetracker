@@ -7,5 +7,9 @@
 		<class>org.infinitetracker.core.issue.domain.IssueType</class>
 		<class>org.infinitetracker.core.tracker.domain.Tracker</class>
 		<class>org.infinitetracker.core.project.domain.Project</class>
+		<class>org.infinitetracker.core.issue.domain.Issue</class>
+		<class>org.infinitetracker.core.user.domain.Role</class>
+		<class>org.infinitetracker.core.user.domain.User</class>
+		<class>org.infinitetracker.core.user.domain.UserRole</class>
 	</persistence-unit>
 </persistence>
